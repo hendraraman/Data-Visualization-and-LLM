@@ -10,7 +10,7 @@
 ![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/cda8af58-da06-4c8a-8154-ec3340330ba3)
 
 
-# Portfolio page (Upload an excel file, it will generate the reports below)
+## Portfolio page (Upload an excel file, it will generate the reports below)
 
 ![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/95fdaabb-0caa-4a89-b0f6-f269d7afc90e)
 
