@@ -9,6 +9,9 @@
 
 ![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/cda8af58-da06-4c8a-8154-ec3340330ba3)
 
+## Correlation between Nifty and Bank Nifty
+![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/44183afb-287c-4457-9b84-7114ab4e0de7)
+
 
 ## Portfolio page (Upload an excel file, it will generate the reports below)
 
