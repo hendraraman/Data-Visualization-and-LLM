@@ -1,8 +1,7 @@
 # Data-Visualization-and-LLM Webpage
 
-## Created a Webiste that gives helps retail inverstors invest better
 
-## Alerts are created based on the rule that we shouldnot invest more than 5% in a single stock.
+### Created a Webiste that gives helps retail inverstors invest better.
 
 ![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/98b6d7af-19dd-401e-8bf9-0c765ceec575)
 
@@ -16,6 +15,8 @@
 
 
 ## Portfolio page (Upload an excel file, it will generate the reports below)
+
+## Alerts are created based on the rule that we shouldnot invest more than 5% in a single stock.
 
 ![image](https://github.com/hendraraman/Data-Visualization-and-LLM/assets/90880440/95fdaabb-0caa-4a89-b0f6-f269d7afc90e)
 
